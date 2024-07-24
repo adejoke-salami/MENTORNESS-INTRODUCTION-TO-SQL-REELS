@@ -1,1 +1,1 @@
-# MENTORNESS-INTRODUCTION-TO-SQL-REELS
+ MENTORNESS-INTRODUCTION-TO-SQL-REELS: Learn SQL fundamentals with engaging video reels. Perfect for beginners, this series covers essential topics like querying databases, data manipulation, and basic SQL commands. Enhance your data skills and boost your career with easy-to-follow, bite-sized lessons. Start your SQL journey today!
